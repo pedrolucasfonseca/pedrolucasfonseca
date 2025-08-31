@@ -30,7 +30,3 @@ Sou um entusiasta da tecnologia em constante aprendizado. Atualmente estou cursa
 ## 📫 Contato
 
 Fique à vontade para explorar meus repositórios e entrar em contato para colaborações ou trocas de conhecimento.
-
----
-
-⭐ Se você gostou de algum projeto, que tal deixar uma estrela? 😉
