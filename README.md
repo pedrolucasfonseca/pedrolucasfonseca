@@ -9,11 +9,11 @@
 
 ## 🚀 Sobre mim
 
-Sou um entusiasta da tecnologia em constante aprendizado. Atualmente estou cursando Engenharia da Computação e desenvolvendo projetos que me ajudam a aplicar e expandir meus conhecimentos em programação, especialmente com Python.
+Sou um entusiasta da tecnologia em constante aprendizado. Atualmente estou cursando meu primeiro período em Engenharia da Computação e desenvolvendo projetos que me ajudam a aplicar e expandir meus conhecimentos em programação, especialmente com Python.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Linguagens, Ferramentas e Interesses
 
 - **Linguagens:** Python
 - **Ferramentas:** Git, GitHub, VS Code, Json
@@ -40,4 +40,4 @@ Fique à vontade para explorar meus repositórios e entrar em contato para colab
 
 ---
 
-⭐ Se você gostou de algum projeto, não esqueça de deixar uma estrela!
+⭐ Se você gostou de algum projeto, que tal deixar uma estrela? 😉
