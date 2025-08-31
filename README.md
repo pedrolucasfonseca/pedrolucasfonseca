@@ -27,6 +27,8 @@ Sou um entusiasta da tecnologia em constante aprendizado. Atualmente estou desen
 >
 > [Lista-de-Tarefas](https://github.com/pedrolucasfonseca/Lista-de-Tarefas)
 
+---
+
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedrolucasfonseca98@gmail.com)](mailto:pedrolucasfonseca98@gmail.com)
