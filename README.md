@@ -27,13 +27,6 @@ Sou um entusiasta da tecnologia em constante aprendizado. Atualmente estou cursa
 - [Lista-de-Tarefas](https://github.com/pedrolucasfonseca/Lista-de-Tarefas): Um simples gerenciador de tarefas feito, que permite adicionar, listar e remover tarefas, com persistência de dados usando um arquivo JSON.
 ---
 
-## 🌐 Redes Sociais
-
-- [LinkedIn](https://www.linkedin.com/in/pedro-lucas-fonseca-vieira-78a90a376)  
-- [Instagram](https://www.instagram.com/pedrolucas.fv)
-
----
-
 ## 📫 Contato
 
 Fique à vontade para explorar meus repositórios e entrar em contato para colaborações ou trocas de conhecimento.
