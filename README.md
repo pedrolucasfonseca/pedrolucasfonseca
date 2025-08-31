@@ -1,5 +1,5 @@
 
-# 👋 Olá Mundo! Eu sou Pedro Lucas Fonseca
+# 👋 Olá Mundo! Meu nome é Pedro Lucas
 
 🎓 Estudante de Engenharia da Computação  
 💻 Apaixonado por tecnologia e resolução de problemas  
