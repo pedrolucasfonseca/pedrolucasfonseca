@@ -1,7 +1,7 @@
 
 # 👋 Olá Mundo! Meu nome é Pedro Lucas
 
-🎓 Estudante de Engenharia da Computação  
+🎓 Estudante de Engenharia da Computação (Período 1/8)
 💻 Apaixonado por tecnologia e resolução de problemas  
 🐍 Explorando o mundo da programação com Python (futuramente com outras linguagens)
 
