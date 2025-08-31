@@ -1,11 +1,8 @@
 
-# 👋 Olá Mundo!
+# Olá, Mundo! ![Image](https://github.com/user-attachments/assets/b97ad4e5-0e49-45fd-ab52-66b7d6a6a738)
 
 🎓 Estudante de Engenharia da Computação (Período 1/8)  
-💻 Apaixonado por tecnologia e resolução de problemas  
 🐍 Explorando o mundo da programação com Python (futuramente com outras linguagens)
-
----
 
 ## 🚀 Sobre mim
 
@@ -13,19 +10,24 @@ Sou um entusiasta da tecnologia em constante aprendizado. Atualmente estou cursa
 
 ---
 
-## 🛠️ Linguagens, Ferramentas e Interesses
+## 🛠️ Linguagens e Ferramentas
 
-- **Linguagens:** Python
-- **Ferramentas:** Git, GitHub, VS Code, Json
-- **Interesses:** Desenvolvimento de scripts utilitários, automação, lógica de programação
+- **Linguagens:** 
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
+- **Ferramentas:** 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white) 
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-white?style=flat-square&logo=JSON&logoColor=black)
+
 
 ---
 
 ## 📂 Repositórios em destaque
 
-- [utility-scripts-em-python](https://github.com/pedrolucasfonseca/utility-scripts-em-python): Coleção de scripts interativos, incluindo calculadora, jogo do número secreto, gerador de recibo e gerenciador de tarefas (sem JSON).
-- [Lista-de-Tarefas](https://github.com/pedrolucasfonseca/Lista-de-Tarefas): Um simples gerenciador de tarefas feito, que permite adicionar, listar e remover tarefas, com persistência de dados usando um arquivo JSON.
----
+- [utility-scripts-em-python](https://github.com/pedrolucasfonseca/utility-scripts-em-python)
+- [Lista-de-Tarefas](https://github.com/pedrolucasfonseca/Lista-de-Tarefas)
 
 ## 📫 Contato
 
