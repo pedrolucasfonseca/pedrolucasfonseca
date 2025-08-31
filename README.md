@@ -1,13 +1,10 @@
 
 # Olá, Mundo! ![Image](https://github.com/user-attachments/assets/b97ad4e5-0e49-45fd-ab52-66b7d6a6a738)
 
-🎓 Estudante de Engenharia da Computação (Período 1/8)  
-🐍 Explorando o mundo da programação com Python (futuramente com outras linguagens)
-
-## 🚀 Sobre mim
-
-Sou um entusiasta da tecnologia em constante aprendizado. Atualmente estou cursando meu primeiro período em Engenharia da Computação e desenvolvendo projetos que me ajudam a aplicar e expandir meus conhecimentos em programação, especialmente com Python.
-
+Sou um entusiasta da tecnologia em constante aprendizado. Atualmente estou desenvolvendo projetos que me ajudam a aplicar e expandir meus conhecimentos em programação, especialmente com Python.
+- 🎓 Estudante de Engenharia da Computação    
+- 🔰 Período (1/8)      
+- 🧭 Explorando o mundo da programação
 ---
 
 ## 🛠️ Linguagens e Ferramentas
@@ -26,10 +23,12 @@ Sou um entusiasta da tecnologia em constante aprendizado. Atualmente estou cursa
 
 ## 📂 Repositórios em destaque
 
-- [utility-scripts-em-python](https://github.com/pedrolucasfonseca/utility-scripts-em-python)
-- [Lista-de-Tarefas](https://github.com/pedrolucasfonseca/Lista-de-Tarefas)
+> [utility-scripts-em-python](https://github.com/pedrolucasfonseca/utility-scripts-em-python)
+>
+> [Lista-de-Tarefas](https://github.com/pedrolucasfonseca/Lista-de-Tarefas)
 
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedrolucasfonseca98@gmail.com)](mailto:pedrolucasfonseca98@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpedro-lucas-fonseca-vieira-78a90a376)](https://www.linkedin.com/in/pedro-lucas-fonseca-vieira-78a90a376)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fpedrolucas.fv)](https://www.instagram.com/pedrolucas.fv)
