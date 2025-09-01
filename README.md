@@ -16,7 +16,6 @@ Sou um entusiasta da tecnologia em constante aprendizado. Atualmente estou desen
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white) 
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-white?style=flat-square&logo=JSON&logoColor=black)
 
 
 ---
