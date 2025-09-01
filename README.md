@@ -10,7 +10,7 @@ Sou um entusiasta da tecnologia em constante aprendizado. Atualmente estou desen
 ## 🛠️ Linguagens e Ferramentas
 
 - **Linguagens:** 
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white)
 - **Ferramentas:** 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white) 
