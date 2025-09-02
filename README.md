@@ -22,9 +22,9 @@ Sou um entusiasta da tecnologia em constante aprendizado. Atualmente estou desen
 
 ## 📂 Repositórios em destaque
 
-> [utility-scripts-em-python](https://github.com/pedrolucasfonseca/utility-scripts-em-python)
+> 🐍 [utility-scripts-em-python](https://github.com/pedrolucasfonseca/utility-scripts-em-python)
 >
-> [Lista-de-Tarefas](https://github.com/pedrolucasfonseca/Lista-de-Tarefas)
+>📋 [Lista-de-Tarefas](https://github.com/pedrolucasfonseca/Lista-de-Tarefas)
 
 ---
 
