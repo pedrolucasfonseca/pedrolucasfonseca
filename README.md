@@ -14,9 +14,11 @@ Sou um estudante de Engenharia da Computação, desenvolvo projetos que me ajuda
 
 ## 📂 Repositórios em destaque
 
-> 🐍 [Utility Scripts em Python](https://github.com/pedrolucasfonseca/utility-scripts-em-python)
+>🐍 [Utility Scripts em Python](https://github.com/pedrolucasfonseca/utility-scripts-em-python)
 >
 >📋 [Lista de Tarefas](https://github.com/pedrolucasfonseca/Lista-de-Tarefas)
+>
+>🎙️ [Reconhecimento de Voz](https://github.com/pedrolucasfonseca/Reconhecimento-de-Voz)
 
 ## 📫 Contato
 
