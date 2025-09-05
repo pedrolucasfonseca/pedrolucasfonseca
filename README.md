@@ -2,9 +2,6 @@
 
 Sou um estudante de Engenharia da Computação, desenvolvo projetos que me ajudam a aplicar e expandir meus conhecimentos em programação, especialmente com Python.
 
-- 🎓 Engenharia da Computação/IBMEC-RJ    
-- 🔰 Período (1/8)      
-- 🧭 Explorando o mundo da programação
 ---
 
 ## 🛠️ Linguagens e Ferramentas
