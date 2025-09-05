@@ -1,8 +1,8 @@
 # Olá, Mundo!  <img src="https://github.com/user-attachments/assets/b97ad4e5-0e49-45fd-ab52-66b7d6a6a738" width="50">
 
-Sou um entusiasta da tecnologia em constante aprendizado. Atualmente estou desenvolvendo projetos que me ajudam a aplicar e expandir meus conhecimentos em programação, especialmente com Python.
+Sou um estudante de Engenharia da Computação, desenvolvo projetos que me ajudam a aplicar e expandir meus conhecimentos em programação, especialmente com Python.
 
-- 🎓 Estudante de Engenharia da Computação    
+- 🎓 Engenharia da Computação/IBMEC-RJ    
 - 🔰 Período (1/8)      
 - 🧭 Explorando o mundo da programação
 ---
