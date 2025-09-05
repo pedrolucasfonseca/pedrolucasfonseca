@@ -2,8 +2,6 @@
 
 Sou um estudante de Engenharia da Computação, desenvolvo projetos que me ajudam a aplicar e expandir meus conhecimentos em programação, especialmente com Python.
 
----
-
 ## 🛠️ Linguagens e Ferramentas
 
 - **Linguagens:** 
@@ -14,16 +12,11 @@ Sou um estudante de Engenharia da Computação, desenvolvo projetos que me ajuda
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 
-
----
-
 ## 📂 Repositórios em destaque
 
 > 🐍 [Utility Scripts em Python](https://github.com/pedrolucasfonseca/utility-scripts-em-python)
 >
 >📋 [Lista de Tarefas](https://github.com/pedrolucasfonseca/Lista-de-Tarefas)
-
----
 
 ## 📫 Contato
 
