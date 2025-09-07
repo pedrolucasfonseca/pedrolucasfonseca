@@ -7,10 +7,8 @@ Sou um estudante de Engenharia da Computação, desenvolvo projetos que me ajuda
 - **Linguagens:** 
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white)
 - **Ferramentas:** 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white) 
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 
 ## 📂 Repositórios em destaque
 
