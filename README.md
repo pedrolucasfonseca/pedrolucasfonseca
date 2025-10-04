@@ -6,13 +6,13 @@ Sou um estudante de Engenharia da Computação, desenvolvo projetos que me ajuda
 
 - **Linguagens:** 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=Javascript&logoColor=white)
 - **Ferramentas:** 
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white) 
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=GIT&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-gray?style=flat-square&logo=Node.js&logoColor=green)
 
 ## 📂 Repositórios em destaque
 
