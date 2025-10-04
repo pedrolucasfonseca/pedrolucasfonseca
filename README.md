@@ -15,7 +15,7 @@ Sou um estudante de Engenharia da Computação, desenvolvo projetos que me ajuda
 ![Node.js](https://img.shields.io/badge/Node.js-gray?style=flat-square&logo=Node.js&logoColor=green)
 
 ## 🎓 Certificações e Cursos
-[<img src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="100"></a>](https://drive.google.com/file/d/1D5JoGH_pWz1LUWHDxob8E33_dGd5B7gW/view?usp=drive_link)
+[<img src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="110"></a>](https://www.credly.com/badges/2e3298a5-c535-4c7d-9631-71c883509b88/public_url)
 
 ## 📂 Repositórios em destaque
 
