@@ -5,7 +5,7 @@ Sou um estudante de Engenharia da Computação, desenvolvo projetos que me ajuda
 ## 🛠️ Linguagens e Ferramentas
 
 - **Linguagens:** 
-![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=Javascript&logoColor=white)
 - **Ferramentas:** 
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white) 
