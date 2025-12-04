@@ -24,7 +24,7 @@ Sou um estudante de Engenharia da Computação de segundo período! desenvolvo p
 >
 >🎙️ [Reconhecimento de Voz](https://github.com/pedrolucasfonseca/Reconhecimento-de-Voz)
 >
->#️⃣ [Jogo da Velha Cisco](https://github.com/pedrolucasfonseca/Jogo-da-Velha-Cisco-Academy-Networking)
+>#️⃣ [Jogo da Velha](https://github.com/pedrolucasfonseca/Jogo-da-Velha-Cisco-Academy-Networking)
 
 ## 📫 Contato
 
