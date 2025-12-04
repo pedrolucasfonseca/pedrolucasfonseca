@@ -12,7 +12,6 @@ Sou um estudante de Engenharia da Computação de segundo período! desenvolvo p
 ![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=GIT&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-gray?style=flat-square&logo=Node.js&logoColor=green)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=linux&logoColor=black)
 
 ## 🎓 Certificações e Cursos
