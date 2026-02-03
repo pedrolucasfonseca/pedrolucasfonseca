@@ -2,7 +2,7 @@
 
 Sou um estudante de Engenharia da Computação de segundo período! desenvolvo projetos que me ajudam a aplicar e expandir meus conhecimentos em programação, atualmente só tenho afinidade com Python.
 
-## 🛠️ Linguagens, Ambientes e Ferramentas
+## Linguagens, Ambientes e Ferramentas
 
 - **Linguagens:** 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
@@ -13,16 +13,16 @@ Sou um estudante de Engenharia da Computação de segundo período! desenvolvo p
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=linux&logoColor=black)
 
-## 🎓 Certificações e Cursos
+## Certificações e Cursos
 [<img src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="110"></a>](https://www.credly.com/badges/2e3298a5-c535-4c7d-9631-71c883509b88/public_url)
 
-## 📂 Repositórios em destaque
+## Repositórios em destaque
 
->📋 [Lista de Tarefas](https://github.com/pedrolucasfonseca/Lista-de-Tarefas)
+> [Lista de Tarefas](https://github.com/pedrolucasfonseca/Lista-de-Tarefas)
 >
->🎙️ [Reconhecimento de Voz](https://github.com/pedrolucasfonseca/Reconhecimento-de-Voz)
+> [Reconhecimento de Voz](https://github.com/pedrolucasfonseca/Reconhecimento-de-Voz)
 >
->#️⃣ [Jogo da Velha](https://github.com/pedrolucasfonseca/Jogo-da-Velha-Cisco-Academy-Networking)
+> [Jogo da Velha](https://github.com/pedrolucasfonseca/Jogo-da-Velha-Cisco-Academy-Networking)
 
 ## 📫 Contato
 
