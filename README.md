@@ -30,5 +30,8 @@ Sou um estudante de Engenharia da Computação de segundo período! desenvolvo p
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpedro-lucas-fonseca-vieira-78a90a376)](https://www.linkedin.com/in/pedro-lucas-fonseca-vieira-78a90a376)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fpedrolucas.fv)](https://www.instagram.com/pedrolucas.fv)
 
+<div align="center">
 
-![My GitHub Game](https://gh-space-shooter.kiyo-n-zane.com/api/generate?username=pedrolucasfonseca&strategy=random)
+![Snake animation](https://github.com/pedrolucasfonseca/pedrolucasfonseca/blob/output/github-contribution-grid-snake.svg)
+
+</div>
