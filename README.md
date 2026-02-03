@@ -32,6 +32,6 @@ Sou um estudante de Engenharia da Computação de segundo período! desenvolvo p
 
 <div align="center">
 
-![Snake animation](https://github.com/pedrolucasfonseca/pedrolucasfonseca/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/pedrolucasfonseca/pedrolucasfonseca/output/github-contribution-grid-snake-dark.svg)
 
 </div>
