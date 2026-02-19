@@ -21,9 +21,6 @@ Sou um estudante de Engenharia da Computação de segundo período! desenvolvo p
 > [Lista de Tarefas](https://github.com/pedrolucasfonseca/Lista-de-Tarefas)
 >
 > [Reconhecimento de Voz](https://github.com/pedrolucasfonseca/Reconhecimento-de-Voz)
->
-> [Luna Assistant](https://github.com/pedrolucasfonseca/luna-assistant)
-
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedrolucasfonseca98@gmail.com)](mailto:pedrolucasfonseca98@gmail.com)
