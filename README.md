@@ -1,20 +1,20 @@
 <div align="center">
 
-# Hello, world!  <img src="https://github.com/user-attachments/assets/b97ad4e5-0e49-45fd-ab52-66b7d6a6a738" width="50">
+# Hello, world!  <img src=https://github.com/user-attachments/assets/b97ad4e5-0e49-45fd-ab52-66b7d6a6a738 width="55">
 
 I'm a Brazilian software engineering student. Currently building projects with Python while exploring backend development.
 
 ## Stack
 
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=GIT&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=GIT&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Courses & certifications
-[<img src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="120"></a>](https://www.credly.com/badges/2e3298a5-c535-4c7d-9631-71c883509b88/public_url)
+[<img src=https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png>](https://www.credly.com/badges/2e3298a5-c535-4c7d-9631-71c883509b88/public_url)
 
 ## 📫 Contact
 
