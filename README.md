@@ -2,7 +2,7 @@
 
 # Hello, world!  <img src="https://github.com/user-attachments/assets/b97ad4e5-0e49-45fd-ab52-66b7d6a6a738" width="50">
 
-I'm a Brazilian software engineering student. Currently building projects with Python while exploring backend development in classes.
+I'm a Brazilian software engineering student. Currently building projects with Python while exploring backend development.
 
 ## Stack
 
