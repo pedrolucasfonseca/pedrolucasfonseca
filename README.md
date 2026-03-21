@@ -14,11 +14,6 @@ I'm a Brazilian software engineering student. Currently building projects with P
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-
-## Courses & certifications
-
-[<img src=https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png>](https://www.credly.com/badges/2e3298a5-c535-4c7d-9631-71c883509b88/public_url)
-
 ## 📫 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedrolucasfonseca98@gmail.com)](mailto:pedrolucasfonseca98@gmail.com)
