@@ -16,7 +16,7 @@ I'm a Brazilian software engineering student at IBMEC-RJ, and Intern at Mères O
 ## Contact
 
 [![Gmail Badge](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedrolucasfonseca98@gmail.com)](mailto:pedrolucasfonseca98@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpedro-lucas-fonseca-vieira-78a90a376)](https://www.linkedin.com/in/pedro-lucas-fonseca-vieira-78a90a376)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpedro-lucas-fonseca-vieira-78a90a376)](https://www.linkedin.com/in/pedro-lucas-fonseca-vieira/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fpedrolucas.fv)](https://www.instagram.com/pedrolucas.fv)
 
 ---
