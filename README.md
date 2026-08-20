@@ -27,7 +27,12 @@ I'm a Brazilian software engineering student at IBMEC-RJ, and Intern at Mères O
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pedrolucasfonseca&theme=dark)
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/pedrolucasfonseca/pedrolucasfonseca/output/stats.svg" alt="GitHub Stats" /></td>
+    <td><img src="https://raw.githubusercontent.com/pedrolucasfonseca/pedrolucasfonseca/output/top-langs.svg" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 ---
 

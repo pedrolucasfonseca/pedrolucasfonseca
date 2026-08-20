@@ -19,7 +19,23 @@ jobs:
           github_user_name: pedrolucasfonseca
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=pedrolucasfonseca&show_icons=true&theme=dark
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=pedrolucasfonseca&layout=compact&theme=dark
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
