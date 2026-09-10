@@ -2,7 +2,7 @@
 
 # Hello, world!  <img src=https://github.com/user-attachments/assets/b97ad4e5-0e49-45fd-ab52-66b7d6a6a738 width="55">
 
-I'm a Brazilian software engineering student at IBMEC-RJ, and Intern at Mères Offices. Currently building projects while exploring programming development.
+I'm a Brazilian software engineering student at IBMEC-RJ. Currently building projects while exploring programming development.
 
 ## Stack
 
