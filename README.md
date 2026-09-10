@@ -7,9 +7,6 @@ I'm a Brazilian software engineering student at IBMEC-RJ, and Intern at Mères O
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=GIT&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
