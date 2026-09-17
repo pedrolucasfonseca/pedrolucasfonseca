@@ -90,5 +90,4 @@ tracing through Prometheus, Grafana and OpenTelemetry.
 
 - Strengthening algorithms and problem solving with Python.
 - Designing backend APIs, authentication flows and data models.
-- Building Java and Spring Boot backend services.
-- Improving automated testing, observability and CI/CD practices.
+- SQL and relational database modeling.
