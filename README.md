@@ -38,6 +38,7 @@ I'm a Brazilian Software Engineering student at IBMEC-RJ, focused on backend dev
 
 </div>
 
-- Strengthening algorithms and problem solving with Python.
-- Designing backend APIs, authentication flows and data models.
+- Strengthening algorithms and problem solving with Python or Java.
+- Designing backend APIs.
+- Running containers on virtual machines.
 - SQL and relational database modeling.
