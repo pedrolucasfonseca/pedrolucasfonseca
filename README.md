@@ -38,19 +38,6 @@ and maintain.
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Selected projects
-
-### [NestPy-Observer](https://github.com/pedrolucasfonseca/NestPy-Observer)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-Payment API that simulates Pix and card transactions using Strategy and Factory
-patterns, PostgreSQL persistence, automated tests and observability dashboards.
-
 ## Current focus
 
 - Strengthening algorithms and problem solving with Python.
