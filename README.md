@@ -1,10 +1,11 @@
-<h1 align="center">Pedro Lucas Fonseca Vieira</h1>
+<div align="center">
+<h1>Pedro Lucas Fonseca Vieira</h1>
 
-<p align="center">
+<p>
   Software Engineering student at IBMEC Rio · Backend
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/pedro-lucas-fonseca-vieira">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -17,12 +18,7 @@
 
 ## About
 
-I am a Software Engineering student focused on backend development.
-
-My work involves API design, authentication and authorization, data modeling,
-automated testing and reliable deployment workflows. I also use infrastructure
-and observability practices to make backend services easier to deploy, operate
-and maintain.
+I'm a Brazilian Software Engineering student at IBMEC-RJ, focused on backend development. Currently building projects while exploring programming development and algorithms.
 
 ## Backend stack
 
@@ -30,15 +26,24 @@ and maintain.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+
+## DevOps stack
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## Frontend stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 ## Current focus
+
+</div>
 
 - Strengthening algorithms and problem solving with Python.
 - Designing backend APIs, authentication flows and data models.
