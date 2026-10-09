@@ -33,11 +33,15 @@ I'm a Brazilian Software Engineering student at IBMEC-RJ, focused on backend dev
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+## Certificates
+
+[![Github Foundations](https://learn.microsoft.com/pt-br/media/learn/certification/badges/github-foundations.svg)](https://learn.microsoft.com/api/credentials/share/pt-br/PedroLucasFonsecaVi/66DE7CB56C186D2?sharingId=24662AF7EDA96DF1)
+
 ## Current focus
 
 </div>
 
 - Strengthening algorithms and problem solving with Python or Java.
 - Designing backend APIs.
-- Running containers on virtual machines.
+- Docker and CI/CD with GitHub Actions.
 - SQL and relational database modeling.
