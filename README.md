@@ -35,7 +35,9 @@ I'm a Brazilian Software Engineering student at IBMEC-RJ, focused on backend dev
 
 ## Certificates
 
-[![Github Foundations](https://learn.microsoft.com/pt-br/media/learn/certification/badges/github-foundations.svg)](https://learn.microsoft.com/api/credentials/share/pt-br/PedroLucasFonsecaVi/66DE7CB56C186D2?sharingId=24662AF7EDA96DF1)
+<a href="https://learn.microsoft.com/api/credentials/share/pt-br/PedroLucasFonsecaVi/66DE7CB56C186D2?sharingId=24662AF7EDA96DF1">
+  <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/github-foundations.svg" alt="GitHub Foundations" width="150">
+</a>
 
 ## Current focus
 
